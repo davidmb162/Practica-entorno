@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
 import java.time.Duration;
 import java.time.LocalDate;
 import java.util.ArrayList;
-//tenemos interfaces!!!!!!
+//tenemos interfaces!!!!!!?
 public class Interfaz {
     public static String IataOrigen;
     public static String IataDestino;
